@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Configurations>Debug;Release;Paper</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.11" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StockBot.Application\StockBot.Application.csproj" />
+    <ProjectReference Include="..\StockBot.Domain\StockBot.Domain.csproj" />
+    <ProjectReference Include="..\Stockbot.Infrastructure\Stockbot.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

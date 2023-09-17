@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StockBot.Domain/1.0.0": {
+        "runtime": {
+          "StockBot.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StockBot.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

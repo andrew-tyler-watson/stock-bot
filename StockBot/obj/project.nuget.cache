@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s5suLsO87o//dS+Bd46/PISyqkYDO/jEtDcQeq3GUKS2M3WjbQiUUSoz4G/xYRmx3sRWWs6lfdgyB1IqKK+Gew==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\C#\\StockBot\\StockBot\\StockBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\alpaca.markets\\6.2.1\\alpaca.markets.6.2.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\polly\\7.2.4\\polly.7.2.4.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

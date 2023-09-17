@@ -1,0 +1,17 @@
+C:\Code\C#\StockBot\Stockbot.Infrastructure\obj\Paper\net7.0\Stockbot.Infrastructure.csproj.AssemblyReference.cache
+C:\Code\C#\StockBot\Stockbot.Infrastructure\obj\Paper\net7.0\Stockbot.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\StockBot\Stockbot.Infrastructure\obj\Paper\net7.0\Stockbot.Infrastructure.AssemblyInfoInputs.cache
+C:\Code\C#\StockBot\Stockbot.Infrastructure\obj\Paper\net7.0\Stockbot.Infrastructure.AssemblyInfo.cs
+C:\Code\C#\StockBot\Stockbot.Infrastructure\obj\Paper\net7.0\Stockbot.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\C#\StockBot\Stockbot.Infrastructure\bin\Paper\net7.0\Stockbot.Infrastructure.deps.json
+C:\Code\C#\StockBot\Stockbot.Infrastructure\bin\Paper\net7.0\Stockbot.Infrastructure.dll
+C:\Code\C#\StockBot\Stockbot.Infrastructure\bin\Paper\net7.0\Stockbot.Infrastructure.pdb
+C:\Code\C#\StockBot\Stockbot.Infrastructure\bin\Paper\net7.0\StockBot.Application.dll
+C:\Code\C#\StockBot\Stockbot.Infrastructure\bin\Paper\net7.0\StockBot.Domain.dll
+C:\Code\C#\StockBot\Stockbot.Infrastructure\bin\Paper\net7.0\StockBot.Application.pdb
+C:\Code\C#\StockBot\Stockbot.Infrastructure\bin\Paper\net7.0\StockBot.Domain.pdb
+C:\Code\C#\StockBot\Stockbot.Infrastructure\obj\Paper\net7.0\Stockbot.Infrastructure.csproj.CopyComplete
+C:\Code\C#\StockBot\Stockbot.Infrastructure\obj\Paper\net7.0\Stockbot.Infrastructure.dll
+C:\Code\C#\StockBot\Stockbot.Infrastructure\obj\Paper\net7.0\refint\Stockbot.Infrastructure.dll
+C:\Code\C#\StockBot\Stockbot.Infrastructure\obj\Paper\net7.0\Stockbot.Infrastructure.pdb
+C:\Code\C#\StockBot\Stockbot.Infrastructure\obj\Paper\net7.0\ref\Stockbot.Infrastructure.dll

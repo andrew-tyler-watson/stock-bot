@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rqdL9EZca9Vk0p3W3xaoeE6BAspWDuZfIzB460Cr+UY=",
+  "Source": "StockBot.Api",
+  "BasePath": "_content/StockBot.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

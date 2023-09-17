@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockBot", "StockBot\StockBot.csproj", "{B4E6F461-F843-4B21-B8B9-E3BE3DC5FC4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockBot.Api", "StockBot.Api\StockBot.Api.csproj", "{EA97DAAE-5053-47BB-A441-67DD40BEC564}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockBot.Domain", "StockBot.Domain\StockBot.Domain.csproj", "{E36C9950-8286-4C71-80EA-25DBD9D72B1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stockbot.Infrastructure", "Stockbot.Infrastructure\Stockbot.Infrastructure.csproj", "{AA14E1F0-186A-4C83-AC8F-420C93AC2664}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockBot.Application", "StockBot.Application\StockBot.Application.csproj", "{55AAF325-27F6-482B-A875-51791DA98C21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Paper|Any CPU = Paper|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E6F461-F843-4B21-B8B9-E3BE3DC5FC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E6F461-F843-4B21-B8B9-E3BE3DC5FC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E6F461-F843-4B21-B8B9-E3BE3DC5FC4F}.Paper|Any CPU.ActiveCfg = Paper|Any CPU
+		{B4E6F461-F843-4B21-B8B9-E3BE3DC5FC4F}.Paper|Any CPU.Build.0 = Paper|Any CPU
+		{B4E6F461-F843-4B21-B8B9-E3BE3DC5FC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E6F461-F843-4B21-B8B9-E3BE3DC5FC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA97DAAE-5053-47BB-A441-67DD40BEC564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA97DAAE-5053-47BB-A441-67DD40BEC564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA97DAAE-5053-47BB-A441-67DD40BEC564}.Paper|Any CPU.ActiveCfg = Paper|Any CPU
+		{EA97DAAE-5053-47BB-A441-67DD40BEC564}.Paper|Any CPU.Build.0 = Paper|Any CPU
+		{EA97DAAE-5053-47BB-A441-67DD40BEC564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA97DAAE-5053-47BB-A441-67DD40BEC564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E36C9950-8286-4C71-80EA-25DBD9D72B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36C9950-8286-4C71-80EA-25DBD9D72B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36C9950-8286-4C71-80EA-25DBD9D72B1F}.Paper|Any CPU.ActiveCfg = Paper|Any CPU
+		{E36C9950-8286-4C71-80EA-25DBD9D72B1F}.Paper|Any CPU.Build.0 = Paper|Any CPU
+		{E36C9950-8286-4C71-80EA-25DBD9D72B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36C9950-8286-4C71-80EA-25DBD9D72B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA14E1F0-186A-4C83-AC8F-420C93AC2664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA14E1F0-186A-4C83-AC8F-420C93AC2664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA14E1F0-186A-4C83-AC8F-420C93AC2664}.Paper|Any CPU.ActiveCfg = Paper|Any CPU
+		{AA14E1F0-186A-4C83-AC8F-420C93AC2664}.Paper|Any CPU.Build.0 = Paper|Any CPU
+		{AA14E1F0-186A-4C83-AC8F-420C93AC2664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA14E1F0-186A-4C83-AC8F-420C93AC2664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55AAF325-27F6-482B-A875-51791DA98C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AAF325-27F6-482B-A875-51791DA98C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AAF325-27F6-482B-A875-51791DA98C21}.Paper|Any CPU.ActiveCfg = Paper|Any CPU
+		{55AAF325-27F6-482B-A875-51791DA98C21}.Paper|Any CPU.Build.0 = Paper|Any CPU
+		{55AAF325-27F6-482B-A875-51791DA98C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AAF325-27F6-482B-A875-51791DA98C21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2893A0DC-FEAB-4DB6-91F2-0B57058E88FA}
+	EndGlobalSection
+EndGlobal

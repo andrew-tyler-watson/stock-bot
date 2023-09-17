@@ -1,0 +1,12 @@
+C:\Code\C#\StockBot\StockBot.Domain\obj\Paper\net7.0\StockBot.Domain.csproj.AssemblyReference.cache
+C:\Code\C#\StockBot\StockBot.Domain\obj\Paper\net7.0\StockBot.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\StockBot\StockBot.Domain\obj\Paper\net7.0\StockBot.Domain.AssemblyInfoInputs.cache
+C:\Code\C#\StockBot\StockBot.Domain\obj\Paper\net7.0\StockBot.Domain.AssemblyInfo.cs
+C:\Code\C#\StockBot\StockBot.Domain\obj\Paper\net7.0\StockBot.Domain.csproj.CoreCompileInputs.cache
+C:\Code\C#\StockBot\StockBot.Domain\bin\Paper\net7.0\StockBot.Domain.deps.json
+C:\Code\C#\StockBot\StockBot.Domain\bin\Paper\net7.0\StockBot.Domain.dll
+C:\Code\C#\StockBot\StockBot.Domain\bin\Paper\net7.0\StockBot.Domain.pdb
+C:\Code\C#\StockBot\StockBot.Domain\obj\Paper\net7.0\StockBot.Domain.dll
+C:\Code\C#\StockBot\StockBot.Domain\obj\Paper\net7.0\refint\StockBot.Domain.dll
+C:\Code\C#\StockBot\StockBot.Domain\obj\Paper\net7.0\StockBot.Domain.pdb
+C:\Code\C#\StockBot\StockBot.Domain\obj\Paper\net7.0\ref\StockBot.Domain.dll
